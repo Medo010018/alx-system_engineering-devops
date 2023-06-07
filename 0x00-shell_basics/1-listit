@@ -1,2 +1,2 @@
 #!/bin/bach
-ls
+echo -e "$(ls)"
