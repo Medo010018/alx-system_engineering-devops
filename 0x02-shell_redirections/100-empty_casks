@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -print '%p\n'
+find . -empty -printf '%p\n'
